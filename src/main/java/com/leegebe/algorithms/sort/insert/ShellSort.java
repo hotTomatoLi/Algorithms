@@ -1,6 +1,6 @@
-package com.lee.algorithms.sort.insert;
+package com.leegebe.algorithms.sort.insert;
 
-import com.lee.algorithms.sort.BasicSort;
+import com.leegebe.algorithms.sort.BasicSort;
 
 /**
  * 希尔排序

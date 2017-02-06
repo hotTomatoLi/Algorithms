@@ -1,6 +1,6 @@
-package com.lee.algorithms.sort.insert;
+package com.leegebe.algorithms.sort.insert;
 
-import com.lee.algorithms.sort.BasicSort;
+import com.leegebe.algorithms.sort.BasicSort;
 
 /**
  * 插入排序算法
@@ -11,7 +11,7 @@ import com.lee.algorithms.sort.BasicSort;
  * 2 将a[i]并入当前的有序区a[0…i-1]中形成a[0…i]的有序区间。
  * 3 i++并重复第二步直到i==n-1。排序完成。
  */
-public class InsertSort extends BasicSort{
+public class InsertSort extends BasicSort {
 
     public InsertSort(int[] data) {
         super(data);
